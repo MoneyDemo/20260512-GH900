@@ -1,9 +1,9 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor.
+這是一段中文版本的示意文字。內容本身沒有實際意義，主要用來作為排版、版面配置與字型展示的佔位文本。
 
-Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat.
+當設計人員或開發者需要測試段落長度、閱讀節奏與整體視覺效果時，常會使用這類假文來填滿版面。
 
-Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor.
+這些文字可以模擬一般文章的結構，包括短句、長句以及自然的段落分隔，方便觀察內容在不同裝置與視窗尺寸下的呈現方式。
 
-Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales.
+透過這種中文 lorem ipsum，可以更貼近中文語境下的排版需求，幫助檢查字距、行高、對齊與換行是否自然。
 
-Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+在正式內容尚未準備完成之前，這類佔位文字能有效協助設計、開發與審稿流程順利進行。
