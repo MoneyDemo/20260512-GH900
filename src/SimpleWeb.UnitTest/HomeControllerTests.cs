@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using FluentAssertions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -7,7 +6,7 @@ using Moq;
 using SimpleWeb.Controllers;
 using SimpleWeb.Models;
 
-namespace SimpleWeb.IntegrationTest
+namespace SimpleWeb.UnitTest
 {
     [TestClass]
     public class HomeControllerTests
@@ -16,8 +15,9 @@ namespace SimpleWeb.IntegrationTest
         public void IndexShouldBeViewResult()
         {
             // Arrange
-            
-            var controller = new HomeController(null);
+            var controller = new HomeController(null,null,null, null);
+            controller.ControllerContext = new ControllerContext();
+            controller.ControllerContext.HttpContext = new DefaultHttpContext();
 
             // Act
             var result = controller.Index();
@@ -30,8 +30,7 @@ namespace SimpleWeb.IntegrationTest
         public void PrivacyShouldBeViewResult()
         {
             // Arrange
-
-            var controller = new HomeController(null);
+            var controller = new HomeController(null,null,null, null);
 
             // Act
             var result = controller.Privacy();
@@ -46,7 +45,7 @@ namespace SimpleWeb.IntegrationTest
             // Arrange
             var mockHttpContext = new Mock<HttpContext>();
             mockHttpContext.Setup(x => x.TraceIdentifier).Returns("TraceId");
-            var controller = new HomeController(null);
+            var controller = new HomeController(null,null,null,null);
             controller.ControllerContext = new ControllerContext();
             controller.ControllerContext.HttpContext = mockHttpContext.Object;
 
