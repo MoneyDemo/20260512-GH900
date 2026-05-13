@@ -1,0 +1,130 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/L9X2K5+lQ=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'AngleSharp (>= 0.16.0)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "AngleSharp",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'coverlet.collector (>= 3.1.0)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "coverlet.collector",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'FluentAssertions (>= 6.1.0)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "FluentAssertions",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.TestHost (>= 3.1.18)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "Microsoft.AspNetCore.TestHost",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 16.11.0)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Moq (>= 4.16.1)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "Moq",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MSTest.TestAdapter (>= 2.2.6)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "MSTest.TestAdapter",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'MSTest.TestFramework (>= 2.2.6)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "MSTest.TestFramework",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.Diagnostics.TraceSource (>= 4.3.0)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "System.Diagnostics.TraceSource",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'System.Net.Http (>= 4.3.4)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "System.Net.Http",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets (>= 1.10.9)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb.IntegrationTest\\SimpleWeb.IntegrationTest.csproj",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SJ4qYc6JU9Q=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb\\SimpleWeb.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.VisualStudio.Azure.Containers.Tools.Targets (>= 1.10.9)' for '.NETCoreApp,Version=v3.1'.",
+      "projectPath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb\\SimpleWeb.csproj",
+      "filePath": "C:\\Users\\tzyu\\Downloads\\20260512\\src\\SimpleWeb\\SimpleWeb.csproj",
+      "libraryId": "Microsoft.VisualStudio.Azure.Containers.Tools.Targets",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
